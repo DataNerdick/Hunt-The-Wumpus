@@ -1,0 +1,1 @@
+g++ huntTheWumpus.cpp gameEngine.cpp movingObject.cpp wumpus.cpp bat.cpp room.cpp hero.cpp -o run
